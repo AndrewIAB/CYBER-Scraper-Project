@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="Main Menu">
+    <file>Info Question Button.png</file>
+    <file>Skip Button.png</file>
+    <file>Layout.png</file>
+    <file>X Button.png</file>
+    <file>Heart Button.png</file>
+    <file>Arrow.png</file>
+    <file>Matchmaker Menu.png</file>
+    <file>Finder.png</file>
+  </qresource>
+</RCC>

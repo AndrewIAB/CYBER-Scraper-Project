@@ -1,0 +1,25 @@
+QWidget#centralwidget {
+    background: #10051B;
+}
+
+QCheckBox {
+    color: #ffffff;
+}
+
+QLabel {
+    color: #ffffff;
+}
+
+QPushButton {
+    background-color: #FFA500;
+    color: #ffffff;
+    border-style: rounded;
+}
+
+#line_2, #line_3 {
+    color: #FFA500;
+}
+
+#mmk_menu_start, #mmk_good, #mmk_bad, #mmk_skip, #mmk_help, #menu_back {
+    background: none;
+}

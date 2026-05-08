@@ -1,0 +1,3 @@
+QWidget#centralwidget {
+    background: #FFFFFF;
+}
